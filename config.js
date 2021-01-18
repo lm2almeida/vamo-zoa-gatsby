@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
+    pathPrefix: '/vamo-zoa-gatsby',
     siteUrl: 'https://hasura.io',
     gaTrackingId: null,
     trailingSlash: false,
